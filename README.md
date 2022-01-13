@@ -1,3 +1,3 @@
 # Recurrent Neural Networks (WIP)
 
-See [dev.ipynb](dev.ipynb)
+See [dev.ipynb](dev.ipynb).
